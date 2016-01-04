@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\downProject\UpdateSoftDemo\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1dddba57270cdaa6aec1a91dae03496a07da60b9">
+        <dex dex="D:\downProject\UpdateSoftDemo\app\build\intermediates\pre-dexed\debug\classes_d24af4c7cae2e0f32efef05b89702750a43c1575.jar" />
+    </item>
+    <item
+        jar="D:\downProject\UpdateSoftDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b5656b304fd8ae83aa0d9086146c35a63e9b21c">
+        <dex dex="D:\downProject\UpdateSoftDemo\app\build\intermediates\pre-dexed\debug\instant-run_10b3585eec0f8e4a8c5445deef5aa227bb4b5213.jar" />
+    </item>
+
+</items>
